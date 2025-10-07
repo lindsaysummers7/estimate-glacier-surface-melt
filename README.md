@@ -1,4 +1,4 @@
-# estimate-surface-melt
+# estimate-glacier-surface-melt
 Lindsay Summers
 Boise State University - Department of Geosciences
 
