@@ -10,8 +10,8 @@ Code to estimate glacier surface melt using temperature downscaling and a PDD mo
 
 ## Requirements
 - a Digital Elevation Model (DEM) of each year
-- daily Automated Weather Station (AWS) temperature data located near the glacier AND/OR ERA5 temperature data from one location near the glacier
-- a csv containing lon/lat locations to estimate melt (preferably equally spaced points along a centerline from terminus to headwall)
+- Daily Automated Weather Station (AWS) temperature data located near the glacier AND/OR ERA5 temperature data from one location near the glacier
+- csv containing lon/lat locations to estimate melt (preferably equally spaced points along a centerline from terminus to headwall)
 - outputs from glacier-snow-cover-mapping (.nc files)
 - (optional) a lapse rate for the glacier (can also use the USGS Benchmark Glacier lapse rate of 0.0065 °C/m)
 
