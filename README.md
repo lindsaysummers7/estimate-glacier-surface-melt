@@ -16,10 +16,11 @@ Code to estimate glacier surface melt using temperature downscaling and a PDD mo
 - (optional) a lapse rate for the glacier (can also use the USGS Benchmark Glacier lapse rate of 0.0065 °C/m)
 
 ## Basic Workflow
-1. (optional) Yearly_DEM.ipynb
-2. downscale_temperatures.ipynb
-3. extract_snow_cover_results.ipynb
-4. estimate_melt_PDD.ipynb
+1. import and activate environment
+2. (optional) Yearly_DEM.ipynb
+3. downscale_temperatures.ipynb
+4. extract_snow_cover_results.ipynb
+5. estimate_melt_PDD.ipynb
 
 ## Acknowledgements
 Thank you to the USGS Benchmark Glacier Project staff for their support and available data. 
